@@ -1,0 +1,14 @@
+.vscode/*
+
+*.cache
+
+**/Logs/
+**/PublishProfiles/
+**/bin/
+**/obj/
+
+# Internet
+**/Deploy/
+**/appsettings.Development.json
+**/appsettings.Production.json
+**/Migrations/
